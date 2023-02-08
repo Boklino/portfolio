@@ -38,7 +38,7 @@ export default function Home() {
               </ul>
             </nav>
             <div className=' text-center p-10 '>
-              <h2 className=' text-3xl  font-bold text-teal-500 py-2 md:text-6xl writer writer-text'>Hi,I'm Ahmed Ezzat.</h2>
+              <h2 className=' text-3xl  font-bold text-teal-500 py-2 md:text-6xl writer writer-text'>Hi, I'm Ahmed Ezzat.</h2>
               <h3 className=' text-lg py-2 md:text-3xl dark:text-slate-300'>A Software Engineer.</h3>
               <p className=' text-base text-gray-700 py-4 leading-6 md:text-xl max-w-xl mx-auto dark:text-slate-400'>Impassioned Software Engineer with more than three years of professional experience.</p>
             </div>
